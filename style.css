@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(56, 53, 53);
+}
+
+#game-canvas {
+    text-align: center;
+}
+
+#game {
+    background-color: rgb(28, 26, 26);
+}
+
+#vscpu {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: larger;
+    width: 220px;
+    height: 30px;
+}
+
+#vsp2 {
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 50px;
+    font-size: larger;
+    width: 220px;
+    height: 30px;
+}
